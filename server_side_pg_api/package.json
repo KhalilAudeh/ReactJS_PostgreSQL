@@ -9,14 +9,14 @@
   "author": "Khalil Audeh",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "consolidate": "*",
     "cors": "^2.8.5",
     "dust": "*",
     "dustjs-helpers": "*",
     "dustjs-linkedin": "*",
     "expres": "*",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "pg": "^7.12.1"
   }
